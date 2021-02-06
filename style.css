@@ -105,35 +105,3 @@ body {
     padding: 5px;
 }
 
-@media only screen and (max-width: 1050px) {
-    body {
-      width: 100%;
-    }
-
-    .card {
-        width: 55%;
-    }
-}
-
-@media only screen and (max-width: 600px) {
-    body {
-      width: 100%;
-    }
-
-    .card {
-        width: 90%;
-        height: 45%;
-    }
-}
-
-@media only screen and (max-height: 750px) {
-    body {
-      width: 100%;
-    }
-
-    .card {
-        width: 90%;
-        height: 60%;
-    }
-}
-
